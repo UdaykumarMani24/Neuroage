@@ -28,4 +28,4 @@ This project is for research purposes only and is not intended for clinical use.
 
 ## Contact
 
-For questions, please contact the corresponding authors at: senthilrathna@scnt.sastra.edu, uthay@bioinfo.sastra.edu
+For questions, please contact the corresponding authors at: senthilrathna@scbt.sastra.edu, uthay@bioinfo.sastra.edu
